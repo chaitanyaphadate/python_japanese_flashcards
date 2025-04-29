@@ -34,6 +34,7 @@ A simple, interactive flashcard application built using Python and Tkinter to he
 
 ## 📂 Project Structure
 
+```text
 ├── data/
 │   ├── japanese_vocab.csv         # Master vocabulary file
 │   └── words_to_learn.csv         # Progress tracking file (created automatically)
@@ -44,7 +45,7 @@ A simple, interactive flashcard application built using Python and Tkinter to he
 │   ├── wrong.png                  # Cross image
 │   └── flip_card.png              # Flip button image
 ├── main.py                        # Main application script
-
+```
 ---
 
 ## 🔮 Future Enhancements
