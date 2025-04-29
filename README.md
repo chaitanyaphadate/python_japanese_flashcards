@@ -6,8 +6,9 @@ A simple, interactive flashcard application built using Python and Tkinter to he
 
 ## 📸 Screenshots
 
-*Add screenshots of the app here (e.g., flashcard front, back, UI interface).*
+![Flashcard app front](screenshots/flashcard_front.jpg)
 
+![Flashcard app back](screenshots/flashcard_back.jpg)
 ---
 
 ## 🚀 Features
